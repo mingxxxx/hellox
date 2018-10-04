@@ -1,0 +1,5 @@
+node_modules
+_assest_
+*.sublime-project
+*.sublime-workspace
+.idea
